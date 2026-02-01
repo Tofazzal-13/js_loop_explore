@@ -12,7 +12,7 @@ for(let i = 1; i <= 50; i++){
     }
 }
 
-// give me the sum of numbers from 1 to 20 that are divisiable by 3
+// give me the sum of numbers from 1 to 20 that are divisible by 3
 
 let sum = 0; 
 for(let i = 1; i <= 20; i++){

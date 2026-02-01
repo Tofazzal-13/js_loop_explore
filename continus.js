@@ -7,12 +7,12 @@ for(let i = 1; i < 10; i++){
 }
 
 
-let n = 5; 
+let n = 1; 
 while (n < 20){
     n++; 
     if(n % 5 === 0){
         continue;
     }
-    console.log(n);
+    // console.log(n);
     
 }
